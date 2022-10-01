@@ -1,5 +1,7 @@
 # Netflix-clone
 Summary: Netflix-Clone Website built using python programming having functionalities like Sign in, Sign up, create profile, select section(All or Kids), Select Movie and play the Movie.
+
+
 Using Tools: Python, Django, Bootstrap, Default Django database (SQLite3).
 # Screenshot
 # Running Code in VS Code IDE![N1](https://user-images.githubusercontent.com/62995128/193404218-23a68dbb-1bdd-4b9b-aff4-3c89bc1358bb.jpg)
